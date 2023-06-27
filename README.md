@@ -4,12 +4,15 @@ A tutorial on GW data analysis for obtaining EoS constraints for the 2023 INT Nu
 
 
 **Useful links**
+[GWPY](https://gwpy.github.io/) A library for working with gravitational wave strain data
+
 [Bilby](https://git.ligo.org/lscsoft/bilby): a bayesian parameter estimation pipeline for gravitational wave data analysis.
 
 [LWP](https://git.ligo.org/reed.essick/lwp): a module for hierarchicla inference of the nuclear EoS which depends individual event GW posterior samples.
 
 [GWOSC API](https://gwosc.org/apidocs/): The GWOSC api, this gives a bunch of
 examples for how to work with GW data without having to get your hands dirty.
+
 
 ---
 *General Tutorial Outline*
