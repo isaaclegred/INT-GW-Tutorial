@@ -1,0 +1,5 @@
+name: o-builds
+channels:
+  - conda-forge
+  - defaults
+prefix: /usr/local/Caskroom/mambaforge/base/envs/o-builds
